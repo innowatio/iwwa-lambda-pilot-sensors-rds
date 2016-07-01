@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/innowatio/wwa-lambda-pilot-sensors-rds.git"
+    "url": "https://github.com/innowatio/iwwa-lambda-pilot-sensors-rds.git"
   },
   "dependencies": {
     "babel-polyfill": "^6.7.4",

@@ -1,14 +1,8 @@
-[![Build Status](https://travis-ci.org/lk-architecture/lambda-boilerplate.svg?branch=master)](https://travis-ci.org/lk-architecture/lambda-boilerplate)
-[![Dependency Status](https://david-dm.org/lk-architecture/lambda-boilerplate.svg)](https://david-dm.org/lk-architecture/lambda-boilerplate)
-[![devDependency Status](https://david-dm.org/lk-architecture/lambda-boilerplate/dev-status.svg)](https://david-dm.org/lk-architecture/lambda-boilerplate#info=devDependencies)
+[![Build Status](https://travis-ci.org/innowatio/iwwa-lambda-pilot-sensors-rds.svg?branch=master)](https://travis-ci.org/innowatio/iwwa-lambda-pilot-sensors-rds)
+[![codecov](https://codecov.io/gh/innowatio/iwwa-lambda-pilot-sensors-rds/branch/master/graph/badge.svg)](https://codecov.io/gh/innowatio/iwwa-lambda-pilot-sensors-rds)
+[![Dependency Status](https://david-dm.org/innowatio/iwwa-lambda-pilot-sensors-rds.svg)](https://david-dm.org/innowatio/iwwa-lambda-pilot-sensors-rds)
+[![devDependency Status](https://david-dm.org/innowatio/iwwa-lambda-pilot-sensors-rds/dev-status.svg)](https://david-dm.org/innowatio/iwwa-lambda-pilot-sensors-rds#info=devDependencies)
 
-# Lambda Boilerplate
+# iwwa-lambda-pilot-sensors-rds
 
-Lambda boilerplate project.
-
-After cloning the repository, run `npm install` to install all dependencies.
-Entry point for all yours implementations is `src/pipeline`.
-
-## Configuration
-
-The application can be configured using a `.env` file (key=value format).
+Lambda Pilot Sensors on RDS
